@@ -1,5 +1,5 @@
 1. Student: 				Zakaria Khitirishvili
-   CWID: 				10862854
+ 
 
 2. Programming Language: 		Python
 
